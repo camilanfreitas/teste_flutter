@@ -1,6 +1,8 @@
-# teste_flutter
+# Repositório de Teste de Flutter
 
-A new Flutter project.
+Projeto do curso de Flutter do canal "Flutterando" no youtube.
+
+- Playlist do curso: https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB
 
 ## Getting Started
 
